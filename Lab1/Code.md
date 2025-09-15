@@ -1,4 +1,5 @@
 Код:
+```
 using System;
 
 class Program
@@ -39,8 +40,9 @@ class Program
             Console.WriteLine("Рiшення: байдуже (кориснiсть однакова)");
     }
 }
-
+```
 Резултат: 
-<img width="450" height="121" alt="image" src="https://github.com/user-attachments/assets/cd824f35-797e-4ed3-8858-f670f5338700" />
 
-<img width="354" height="40" alt="image" src="https://github.com/user-attachments/assets/7ab7692d-6ea6-46a9-9a79-9d538600e654" />
+1.<img width="450" height="121" alt="image" src="https://github.com/user-attachments/assets/cd824f35-797e-4ed3-8858-f670f5338700" />
+
+2.<img width="354" height="40" alt="image" src="https://github.com/user-attachments/assets/7ab7692d-6ea6-46a9-9a79-9d538600e654" />
